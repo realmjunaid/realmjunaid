@@ -9,6 +9,7 @@ I build open-source tools that track the AI world, automate communities, and mak
 [![Website](https://img.shields.io/badge/Website-mjunaid.me-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://mjunaid.me)
 [![X](https://img.shields.io/badge/X-@realmjunaid-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/realmjunaid)
 [![GitHub](https://img.shields.io/badge/GitHub-realmjunaid-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/realmjunaid)
+[![Email](https://img.shields.io/badge/Email-junaid%40mjcreate.net-EA4335?style=flat-square&logo=minutemailer&logoColor=white)](mailto:junaid@mjcreate.net)
 
 </div>
 
